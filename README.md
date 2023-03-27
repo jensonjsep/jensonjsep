@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jensonjsep
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning R and SQL
+- 🌱 I’m currently doing my masters in Big Data and Data Analytics 
 - 💞️ I’m looking to collaborate on projects based on DataBases and data analytics
 
 <!---
