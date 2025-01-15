@@ -58,10 +58,6 @@ Deployment of machine learning models on cloud platforms
 
 Apart from data science, I share my daily life experiences and explorations of South Australia on my YouTube channel. Additionally, I enjoy pencil drawing and exploring creative outlets.
 
-📫 Let's Connect
 
-Email: your_email@example.com
 
-LinkedIn: linkedin.com/in/jenson-joseph
 
-GitHub: github.com/jensonjoseph
